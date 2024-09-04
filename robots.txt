@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sarlyprup.github.io/sitemap.html.gz
+Sitemap: https://sarlyprup.github.io/app/sitemap.html.gz
+Sitemap: https://sarlyprup.github.io/assets/sitemap.html.gz
+Sitemap: https://sarlyprup.github.io/css/sitemap.html.gz
+Sitemap: https://sarlyprup.github.io/includes/sitemap.html.gz
+Sitemap: https://sarlyprup.github.io/item/sitemap.html.gz
+Sitemap: https://sarlyprup.github.io/src/sitemap.html.gz
